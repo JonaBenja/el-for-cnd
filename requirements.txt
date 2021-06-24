@@ -1,0 +1,8 @@
+Elasticsearch
+sparse_dot_topn
+pandas
+spacy==2.3.5
+python -m spacy download nl_core_news_lg
+sklearn
+scipy
+jsonlines
